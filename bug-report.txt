@@ -1,0 +1,14 @@
+bag-report
+
+Summary
+Error in the input window when entering a date consisting of all zeros
+
+Steps
+1. Go to http://tutu-ru.github.io/
+2. Enter only zeros in the input window
+
+Expected result
+The date is entered in the form "00.00.0000"
+
+Actual result
+The date is entered in the form "10.00.0000"

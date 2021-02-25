@@ -1,0 +1,14 @@
+bag-report3
+
+Summary
+Error when calculating age when entering a value "28.12.9999"
+
+Steps
+1. Go to http://tutu-ru.github.io/
+2. Entering a value "28.12.9999" in the input window
+
+Expected result
+Age when calculating must be "7977 years"
+
+Actual result
+Age when calculating turned out to be "1 month"

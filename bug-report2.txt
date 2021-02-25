@@ -1,0 +1,14 @@
+bag-report2
+
+Summary
+Error when calculating age when entering a value "01.01.0001"
+
+Steps
+1. Go to http://tutu-ru.github.io/
+2. Entering a value "01.01.0001 in the input window
+
+Expected result
+Age when calculating must be "2020 years"
+
+Actual result
+Age when calculating turned out to be "20 years"

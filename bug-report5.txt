@@ -1,0 +1,14 @@
+bag-report5
+
+Summary
+Error when calculating age when entering a value "12.12.2022"
+
+Steps
+1. Go to http://tutu-ru.github.io/
+2. Entering a value "12.12.2022" in the input window
+
+Expected result
+Age when calculating must be "0 years"
+
+Actual result
+Age when calculating turned out to be "2 month"

@@ -1,0 +1,14 @@
+bag-report1
+
+Summary
+Error when calculating age when entering a value "10.00.0000"
+
+Steps
+1. Go to http://tutu-ru.github.io/
+2. Entering a value "10.00.0000" in the input window
+
+Expected result
+Date should not be entered without month
+
+Actual result
+Age when calculating turned out to be "NaN years"
