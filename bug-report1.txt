@@ -8,7 +8,7 @@ Steps
 2. Entering a value "10.00.0000" in the input window
 
 Expected result
-Date should not be entered without month
+Date should not be entered without month and year
 
 Actual result
 Age when calculating turned out to be "NaN years"

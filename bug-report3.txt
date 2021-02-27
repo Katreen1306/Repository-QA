@@ -8,7 +8,7 @@ Steps
 2. Entering a value "28.12.9999" in the input window
 
 Expected result
-Age when calculating must be "7977 years"
+Age when calculating must be "0 years"
 
 Actual result
 Age when calculating turned out to be "1 month"

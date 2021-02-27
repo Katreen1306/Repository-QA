@@ -8,7 +8,7 @@ Steps
 2. Enter only zeros in the input window
 
 Expected result
-The date is entered in the form "00.00.0000"
+The date is entered in the form "01.01.0001"
 
 Actual result
 The date is entered in the form "10.00.0000"
